@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#C5C5C5</color>
+    <color name="colorAccent">#BEBEBE</color>
+    <color name="BREAKFAST">#DAC100</color>
+    <color name="LUNCH">#00D5C1</color>
+    <color name="DINNER">#FF5959</color>
+</resources>
